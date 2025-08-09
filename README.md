@@ -64,4 +64,4 @@ Edit
 streamlit run app.py
 📬 Contact
 Author: Muhammad Shahid Sardar
-🔗 LinkedIn – Muhammad Shahid Sardar
+🔗 [LinkedIn – Muhammad Shahid Sardar](https://linkedin.com/in/muhammad-shahid-sardar)  
